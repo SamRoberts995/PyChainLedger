@@ -1,6 +1,5 @@
 # PyChain Ledger
-
-![alt=""](Images/application-image.png)
+![application-image](https://user-images.githubusercontent.com/97074681/175841108-45d272bc-dba6-4c62-b387-019bc7b118f7.png)
 
 You’re a fintech engineer who’s working at one of the five largest banks in the world. You were recently promoted to act as the lead developer on their decentralized finance team. Your task is to build a blockchain-based ledger system, complete with a user-friendly web interface. This ledger should allow partner banks to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
 
@@ -89,8 +88,7 @@ Test your complete `PyChain` ledger and user interface by running your Streamlit
 
 5. Test the blockchain validation process by using the web interface. Take a screenshot of the Streamlit application page, which should indicate the validity of the blockchain. Include the screenshot in the `README.md` file for your homework repository.
 
-![screenshot]('../Images/"Screenshot of Block.png"')
-
+![Screenshot of Block](https://user-images.githubusercontent.com/97074681/175841045-3126092d-5ef0-462f-b82c-425b4fe93d9d.PNG)
 
 ---
 ## Submission
